@@ -1,0 +1,125 @@
+{
+    "books":[
+        {
+            "ISBN":"9781593279509",
+            "AccessionNo":041220180001,
+            "Title":"A Modern Introduction to Programming",
+            "Edition":"Third",
+            "subtitle":"A Modern Introduction to Programming",
+            "Author":"Marijn Haverbeke",
+            "YearOfPublication":"2018",
+            "Publisher":"No Starch Press",
+            "Pages":472,
+            "Category":"Java",
+            "Price":300
+        },
+        {
+            "ISBN":"9781593279508",
+            "AccessionNo":041220150002,
+            "Title":"Programming In ANSI C",
+            "Edition":"Eighth",
+            "Author":"E Balaguruswamy",
+            "YearOfPublication":"2015",
+            "Publisher":"McGraw Hill",
+            "Pages":450,
+            "Category":"C",
+            "Price":600
+        },
+        {
+            "ISBN":"9781593279507",
+            "AccessionNo":160420200003,
+            "Title":"Let Us C",
+            "Edition":"Seventeenth",
+            "Author":"Yashavant Kanetkar ",
+            "YearOfPublication":"2020",
+            "Publisher":"McGraw Hill",
+            "Pages":600,
+            "Category":"C",
+            "Price":330
+        },
+        {
+            "ISBN":"9781593279506",
+            "AccessionNo":200820190004,
+            "Title":"Programming with Java",
+            "Edition":"Sixth",
+            "Author":"E Balaguruswamy",
+            "YearOfPublication":"2019",
+            "Publisher":"McGraw Hill",
+            "Pages":600,
+            "Category":"Java",
+            "Price":480
+        },
+         {
+            "ISBN":"9781593279505",
+            "AccessionNo":210820170005,
+            "Title":"Fundamentals of Database Systems",
+            "Edition":"Sixth",
+            "Author":"Elmasri Ramez, Navathe Shamkant",
+            "YearOfPublication":"2017",
+            "Publisher":"Pearson",
+            "Pages":1100,
+            "Category":"DBMS",
+            "Price":850
+        },
+     {
+            "ISBN":"9781593279505",
+            "AccessionNo":100820210006,
+            "Title":"Database System Concepts",
+            "Edition":"Seventh",
+            "Author":"Abraham Silberschatz",
+            "YearOfPublication":"2021",
+            "Publisher":"McGraw Hill",
+            "Pages":1000,
+            "Category":"DBMS",
+            "Price":900
+        },
+    {
+            "ISBN":"9781593279505",
+            "AccessionNo":181020200007,
+            "Title":"python programming",
+            "Edition":"Seventh",
+            "Author":"Tony F Charles",
+            "YearOfPublication":"2020",
+            "Publisher":"Tony F Charles",
+            "Pages":330,
+            "Category":"Python",
+            "Price":1725
+        },
+       {
+            "ISBN":"9781593279508",
+            "AccessionNo":101220160008,
+            "Title":"Head First Python: A Brain-Friendly Guide",
+            "Edition":"Second",
+            "Author":"Paul Barry",
+            "YearOfPublication":"2016",
+            "Publisher":"O'REILLY",
+            "Pages":624,
+            "Category":"Python",
+            "Price":1275
+        },
+            {
+            "ISBN":"9781593279509",
+            "AccessionNo":290920160006,
+            "Title":"Effective Java",
+            "Edition":"Second",
+            "Author":"Joshua Bloch",
+            "YearOfPublication":"2016",
+            "Publisher":"",
+            "Pages":264,
+            "Category":"Java",
+            "Price":344
+        },
+            {
+            "ISBN":"9781593279510",
+            "AccessionNo":101220200010,
+            "Title":"Java The Complete Reference",
+            "Edition":"Eleventh",
+            "Author":"Herbert Schildt",
+            "YearOfPublication":"2020",
+            "Publisher":"McGraw Hill",
+            "Pages":924,
+            "Category":"Java",
+            "Price":1248
+        }
+    ]
+}
